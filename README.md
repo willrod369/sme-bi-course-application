@@ -1,5 +1,5 @@
 # sme-bi-course-application
-For this portion of the application, we will ask you to create a screencast and two corresponding virtual machine exercises for a specific lesson of your course outline. 
+For this staage of the application, we will ask you to create a screencast and two corresponding virtual machine exercises for a specific chapter of your course outline. 
 
 ### Getting Started 
 
