@@ -13,7 +13,7 @@ Screencasts are used in business intelligence (BI) courses to demonstrate to lea
 
  Here are examples of screencasts: [Working with containers](https://campus.datacamp.com/courses/creating-dashboards-in-tableau/getting-started-with-dashboards?ex=12),  [Slicers and Tables](https://campus.datacamp.com/courses/introduction-to-power-bi/getting-started-with-power-bi?ex=7), and [Customer activity in motion](https://campus.datacamp.com/courses/analyzing-data-in-tableau/mapping-analysis?ex=2). *Tips for recording the screencast: make sure the audio narration is clear and not too fast to follow. It’s often easier to first record the audio and then record your screen while listening to the audio.* 
 
-- [ ] Upload your screencast to your platform of choice (e.g., Dropbox, Google Drive) and add the link here: ____________________________________________
+- [ ] Upload your screencast to your platform of choice (e.g., Dropbox, Google Drive) and paste the link here: 
 
 ### Step 2: Virtual Machine Exercises
 
