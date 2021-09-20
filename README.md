@@ -22,8 +22,9 @@ Screencasts are used in business intelligence (BI) courses to demonstrate to lea
 A virtual machine (VM) exercise requires learners to complete 3 - 6 actions in a Tableau Workbook or Power BI Report. The two VM exercises that follow a demo screencast should cover software-related skills that are covered in the screencast. A virtual machine exercise consists of:
 
 - The measurable **learning objective** that this exercise assesses
-- A **motivation** that engages the learner and explains why they are doing this exercise.
+- A **context** that engages the learner and explains why they are doing this exercise.
 - 3 - 6 bulleted **instructions**
+- A **question** that assesses whether the instructions were properly followed.
 - Two workbook or report files:
   - The **initial file**: what the learner will begin with
   - The **solution file**: what a correct solution would look like after completing the instruction
