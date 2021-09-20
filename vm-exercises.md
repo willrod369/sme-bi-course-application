@@ -34,7 +34,7 @@
 - ...
 
 #### Exercise question:
-*This is a question presented to learners to check if the steps above were properly completed. It is often not possible to check if all the steps are completed, in this case; the priority is to check that the learner meets the learning objective.*
+*This is a question presented to learners to check if the steps above were properly completed. It can be a multiple choice question or a question with a 1-3 word answer. It is often not possible to check if all the steps are completed, in this case; the priority is to check that the learner meets the learning objective.*
 
 #### End goal:
 
@@ -69,7 +69,7 @@
 - ...
 
 #### Exercise question:
-*This is a question presented to learners to check if the steps above were properly completed. It is often not possible to check if all the steps are completed, in this case; the priority is to check that the learner meets the learning objective.*
+*This is a question presented to learners to check if the steps above were properly completed. It can be a multiple choice question or a question with a 1-3 word answer. It is often not possible to check if all the steps are completed, in this case; the priority is to check that the learner meets the learning objective.*
 
 #### End goal:
 
