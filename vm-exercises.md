@@ -9,69 +9,75 @@
 
 #### Dataset
 
-- [ ] Add datasets used to the `datasets/` folder
+- [ Done ] Add datasets used to the `datasets/` folder
 
 #### Files
 
-- [ ] **Initial**: Add file to the `exercises/`  folder with the name `ex-1-intial.twbx` or `ex-1-intial.pbix`, depending if you are auditioning for a Tableau or Power BI course.
-- [ ] **Solution**: Add file to the `exercises/`  folder with the name `ex-1-sol.twbx` or `ex-1-sol.pbix`
+- [ Done ] **Initial**: Add file to the `exercises/`  folder with the name `ex-1-intial.twbx` or `ex-1-intial.pbix`, depending if you are auditioning for a Tableau or Power BI course.
+- [ Done ] **Solution**: Add file to the `exercises/`  folder with the name `ex-1-sol.twbx` or `ex-1-sol.pbix`
 
 #### Learning Objective
 
-*One measurable learning objective that this exercise assesses*
+Building a Financial Formula (Profit & Loss Statement) in Excel
 
 #### Context
 
-*3 - 4 sentence description of why it’s important to learn how to do this task (linking back to the learning objective). Explain how this would be used in a real-life situation. Why is it useful, what problem does it solve?*
+Knowing how to derive financial statements from raw journal entries is fundamental for anyone serious about understanding business, finance, and accounting. Doing so in a way that is performant, reduces memory size, and is easier to manage and administer is simply smart for themselves and their career. This lesson maximizes students’ potential and prowess in both finance and Excel by guiding them through robust financial reporting (Profit & Loss Generation)
 
 #### Steps to be executed by the student (max 6)
 
-*Each bulleted instruction is a complete sentence that describes a specific task.*
+•	Step 1: Insert Report Key
+•	Step 2: Find the Indicator based on the Report Key
+•	Step 3: Return Accounts based on the Report Key
+•	Step 4: Find the Account Type based on the Account
+•	Step 5: Calculate the Amount based on the Account & Account Type
+•	Step 6: Consolidate with LET
 
-- Step 1
-- Step 2
-- Step 3
-- ...
 
 #### Exercise question:
-*This is a question presented to learners to check if the steps above were properly completed. It can be a multiple choice question or a question with a 1-3 word answer. It is often not possible to check if all the steps are completed, in this case; the priority is to check that the learner meets the learning objective.*
+What is the Gross Margin (Report Key = 3)? 
 
 #### End goal:
 
-*Add an image of the final visualization here.*
+![image](https://github.com/willrod369/sme-bi-course-application/assets/137422487/7029a5bc-1d2e-4b7c-9768-074dda7b2abf)
+
 
 ## 2nd VM Exercise
 
 #### Dataset
 
-- [ ] Add datasets used to the `datasets/` folder
+- [ Done ] Add datasets used to the `datasets/` folder
 
 #### Files
 
-- [ ] **Initial**: Add file to the `exercises/`  folder with the name `ex-2-intial.twbx` or `ex-2-intial.pbix`, depending if you are auditioning for a Tableau or Power BI course.
-- [ ] **Solution**: Add file to the `exercises/`  folder with the name `ex-2-sol.twbx` or `ex-2-sol.pbix`
+- [ Done ] **Initial**: Add file to the `exercises/`  folder with the name `ex-2-intial.twbx` or `ex-2-intial.pbix`, depending if you are auditioning for a Tableau or Power BI course.
+- [ Done ] **Solution**: Add file to the `exercises/`  folder with the name `ex-2-sol.twbx` or `ex-2-sol.pbix`
 
 #### Learning Objective
 
-*One measurable learning objective that this exercise assesses*
+Building a Financial Formula (Balance Sheet) in Excel
 
 #### Context
 
-*3 - 4 sentence description of why it’s important to learn how to do this task (linking back to the learning objective). Explain how this would be used in a real-life situation. Why is it useful, what problem does it solve?*
+Knowing how to derive financial statements from raw journal entries is fundamental for anyone serious about understanding business, finance, and accounting. Doing so in a way that is performant, reduces memory size, and is easier to manage and administer is simply smart for themselves and their career. This lesson maximizes students’ potential and prowess in both finance and Excel by guiding them through robust financial reporting (Balance Sheet Generation). 
 
 #### Steps to be executed by the student (max 6)
 
 *Each bulleted instruction is a complete sentence that describes a specific task.*
 
-- Step 1
-- Step 2
-- Step 3
-- ...
+•	Step 1: Copy & Paste P&L Formula (exercise 1, lesson 3.1)
+•	Step 2: Update Report Key
+•	Step 3: Update ExceptionIndicator and AccountsArray for balance sheet tables
+•	Step 4: Remove Debits and Credits start filter
+•	Step 5: Add Asset, Liability, and Owners Equity arrays
+•	Step 6: Produce new BS Equation: If exception, A – (L+OE), else (L+OE) - A
+
 
 #### Exercise question:
-*This is a question presented to learners to check if the steps above were properly completed. It can be a multiple choice question or a question with a 1-3 word answer. It is often not possible to check if all the steps are completed, in this case; the priority is to check that the learner meets the learning objective.*
+What are Total Assets (Report Key = 7)? 
 
 #### End goal:
 
-*Add an image of the final visualization here.*
+![image](https://github.com/willrod369/sme-bi-course-application/assets/137422487/06f31988-b75f-433d-bdf9-949d07803eca)
+
 
