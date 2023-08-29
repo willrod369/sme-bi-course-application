@@ -26,12 +26,12 @@ Knowing how to derive financial statements from raw journal entries is fundament
 
 #### Steps to be executed by the student (max 6)
 
-•	Step 1: Insert Report Key
-•	Step 2: Find the Indicator based on the Report Key
-•	Step 3: Return Accounts based on the Report Key
-•	Step 4: Find the Account Type based on the Account
-•	Step 5: Calculate the Amount based on the Account & Account Type
-•	Step 6: Consolidate with LET
+ - Step 1: Insert Report Key
+ - Step 2: Find the Indicator based on the Report Key
+ - Step 3: Return Accounts based on the Report Key
+ - Step 4: Find the Account Type based on the Account
+ - Step 5: Calculate the Amount based on the Account & Account Type
+ - Step 6: Consolidate with LET
 
 
 #### Exercise question:
@@ -65,13 +65,12 @@ Knowing how to derive financial statements from raw journal entries is fundament
 
 *Each bulleted instruction is a complete sentence that describes a specific task.*
 
-•	Step 1: Copy & Paste P&L Formula (exercise 1, lesson 3.1)
-•	Step 2: Update Report Key
-•	Step 3: Update ExceptionIndicator and AccountsArray for balance sheet tables
-•	Step 4: Remove Debits and Credits start filter
-•	Step 5: Add Asset, Liability, and Owners Equity arrays
-•	Step 6: Produce new BS Equation: If exception, A – (L+OE), else (L+OE) - A
-
+ - Step 1: Copy & Paste P&L Formula (exercise 1, lesson 3.1)
+ - Step 2: Update Report Key
+ - Step 3: Update ExceptionIndicator and AccountsArray for balance sheet tables
+ - Step 4: Remove Debits and Credits start filter
+ - Step 5: Add Asset, Liability, and Owners Equity arrays
+ - Step 6: Produce new BS Equation: If exception, A – (L+OE), else (L+OE) - A
 
 #### Exercise question:
 What are Total Assets (Report Key = 7)? 
